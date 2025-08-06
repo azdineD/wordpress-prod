@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Cloner le dépôt') {
             steps {
-                git branch: 'main', url: 'https://github.com/ton-user/wordpress-prod.git'
+                git branch: 'master', url: 'https://github.com/azdineD/wordpress-prod.git'
             }
         }
 
