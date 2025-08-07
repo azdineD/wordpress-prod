@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "name": "Orange personnalisé",
+          "slug": "custom-orange",
+          "color": "#ff6600"
+        }
+      ]
+    }
+  }
+}
